@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=500&size=24&pause=1000&color=F76115&width=435&lines=Hey+there!+%F0%9F%91%8B++I'm+Manuranjan;Computer+Science+Student;Learning+MERN+Stack;DSA+&+Cybersecurity+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=500&size=24&pause=1000&color=F76115&width=435&lines=Hey+there!+%F0%9F%91%8B++I'm+Manuranjan;Computer+Science+Student;Learning+MERN+Stack;DSA++Cybersecurity+Enthusiast)](https://git.io/typing-svg)
 
 ---
 
