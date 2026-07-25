@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi 👋 I'm Manuranjan
 
-<!--
-**Manu-ranjan/Manu-ranjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Developer | DSA | Cybersecurity
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌿 About Me
+
+- 🎓 Computer Science Engineering Student
+- 💻 Passionate about Full Stack Development
+- 🌱 Currently learning MERN Stack
+- 🚀 Open Source Contributor
+
+---
+
+## 🛠 Tech Stack
+
+- C++
+- Python
+- HTML
+- CSS
+- JavaScript
+- React
+- Git
+- GitHub
+
+
+
