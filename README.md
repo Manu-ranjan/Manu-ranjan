@@ -2,9 +2,9 @@
 
 ---
 
-# Hi 👋 I'm Manuranjan
+#                                                  Hi 👋 I'm Manuranjan
 
-### Frontend Developer | DSA | Cybersecurity
+###                                        Frontend Developer | DSA | Cybersecurity
 
 ---
 
